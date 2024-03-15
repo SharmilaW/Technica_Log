@@ -1,4 +1,4 @@
-
+# Publishing map from the server 
 ### Start time 11:30PM 
 
 ### Stop Time 01:30AM 
@@ -17,7 +17,7 @@ This error occurs when the VM is not ready yet.
 When the wrong port is added while starting the Remote Desktop Connection following error is occurred. 
 ![GVM](./images/GetImage18.png)
 
-### Publishing map from the server 
+## Publishing map from the server 
 
 While signed into the remote desktop, Copy the Canada zip file from the desktop and create the arcgisworkspace folder in the c drive of your local PC. 
 
