@@ -1,1 +1,1 @@
-# Technica_Log
+# Technical_Log
