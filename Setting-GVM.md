@@ -1,16 +1,13 @@
 
-Setting Up ArcGIS Server On GCP
-Wednesday , March 06, 2024 
-
-Start time 20:15pm 
-
-Stop time 21:45pm 
-
-Total Time 1:30  
+#Setting Up ArcGIS Server On GCP
+###Wednesday , March 06, 2024 
+###Start time 20:15pm 
+###Stop time 21:45pm 
+###Total Time 1:30  
 
  
 
-Google credit was claimed and email address was provide to Shawn so that there was sufficient credit to start this process. 
+Google credit was claimed and email address was provide to Instructor so that there was sufficient credit to start this process. 
 
 Log into the google account which has been granted access by Shawn. 
 
@@ -95,7 +92,7 @@ If forget password or misplaced can be regenerated again by repeating this exact
 
  
 
-Setting UP Firewall rules 
+## Setting UP Firewall rules 
 ![GVM](./images/GetImage6.png)
 
 Setting up firewall rules to make it work from Fleming computers. The default for RDP is TCP port 3389 which is blocked by Fleming IT for security reasons. The VM images in instructors server id specifically configured to listen to 444 for remote desktop instead of 3389. We need to have TCP 444 open on the firewall to allow RDP into the machine.   
@@ -120,9 +117,7 @@ Search for my ip address in google and add here
 
 *Changes can be made while working from different places I.e. college and home** 
 
- 
-
-Protocols and Ports>> select TCP and type 444 ( for this case) Normally it is 3389. 
+ Protocols and Ports>> select TCP and type 444 ( for this case) Normally it is 3389. 
 
  CREATE 
 
@@ -130,7 +125,7 @@ Protocols and Ports>> select TCP and type 444 ( for this case) Normally it is 33
 
  
 
-Setting a GCP Firewall Rule to allow ArcGIS Server Management Ports 
+## Setting a GCP Firewall Rule to allow ArcGIS Server Management Ports 
 
 ![GVM](./images/GetImage7.png)
 
@@ -153,7 +148,7 @@ Protocols and Ports> Specified protocols and ports> TCP >Type in > 6443, 6080
 SAVE 
 ![GVM](./images/GetImage8.png)
 
-Setting a windows Firewall Rule to allow ArcGIS Server Management Ports 
+## Setting a windows Firewall Rule to allow ArcGIS Server Management Ports 
 
 ![GVM](./images/GetImage9.png)
 
@@ -188,7 +183,7 @@ This firewall rule will go live immediately and persist after restart of the ser
 
  
 
-Starting an existing/ Shutdown VM on GCP 
+## Starting an existing/ Shutdown VM on GCP 
 
 ***While not in use make sure to shut down VM to reduce the cost*** 
 
@@ -216,17 +211,13 @@ IP:443>Connect
 
 new password for VM 
 
- 
-
 External IP 
 
 34.134.55.246 in this instance 
 
  
 
- 
-
-For the remote Desktop connection the IP address changes everytime the VM is started 
+###For the remote Desktop connection the IP address changes everytime the VM is started 
 ![GVM](./images/GetImage12.png)
 Windows Security window will open up. 
 
