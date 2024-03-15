@@ -22,7 +22,7 @@ Create My First Project( If it does not already exist during credit application)
 
 Since this is individual project location can be left as default ( No organization) 
 
-![GVM](../images/GetImage.png)
+![GVM](./images/GetImage.png)
 
 
 Run a GCP Virtual Machine to test ArcGIS Server 
