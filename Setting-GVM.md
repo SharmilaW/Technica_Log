@@ -1,9 +1,9 @@
 
-#Setting Up ArcGIS Server On GCP
-###Wednesday , March 06, 2024 
-###Start time 20:15pm 
-###Stop time 21:45pm 
-###Total Time 1:30  
+# Setting Up ArcGIS Server On GCP
+### Wednesday , March 06, 2024 
+### tart time 20:15pm 
+### Stop time 21:45pm 
+### Total Time 1:30  
 
  
 
