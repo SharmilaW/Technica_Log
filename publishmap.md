@@ -60,7 +60,11 @@ Right click and choose first option>Register Folder>Choose file of Canada file w
 Analyze again and the remaining warnings can be ignored  
 
 Publish 
+
+
 ![GVM](./images/GetImage22.png)
+
+
 After Publishing check in your server. This file should be uploaded while being referenced rather than copied
 ![GVM](./images/GetImage23.png)
 
