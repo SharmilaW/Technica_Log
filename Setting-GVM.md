@@ -1,15 +1,15 @@
 
 # Setting Up ArcGIS Server On GCP
 ### Wednesday , March 06, 2024 
-### tart time 20:15pm 
+### Start time 20:15pm 
 ### Stop time 21:45pm 
 ### Total Time 1:30  
 
  
 
 Google credit was claimed and email address was provide to Instructor so that there was sufficient credit to start this process. 
-  Log into the google account which has been granted access by Shawn. 
-  To confirm if you have access check for Shawn's ArcGIS Server( If you do not see this you do not have access) 
+Log into the google account which has been granted access by Shawn. 
+To confirm if you have access check for Shawn's ArcGIS Server( If you do not see this you do not have access) 
 Go to Google Cloud >Console> Project list>New Project 
 Create My First Project( If it does not already exist during credit application)  
 Since this is individual project location can be left as default ( No organization) 
@@ -158,17 +158,13 @@ Use the password previously recorded here (*The password remains the same even t
 Select yes  
 Now the Remote Desktop will open up. 
 
- 
-
- 
-
 # Turning off this Remote Desktop/ VM 
 
 While not in use always turn off the VM to save money.  
 Once its stopped the External IP will be released/ given to other users and all the services will stop working. 
-<font color="red">Turning Off using Windows Desktop Console 
+<font color="rgb(255,0,0);">Turning Off using Windows Desktop Console 
 Make sure that the only way to turn off the Remote Desktop is  
-Start menu> Shut Down </font>}
+Start menu> Shut Down </font>
 Pressing X or closing the Remote Desktop Window does  not shut down the machine. 
 It is similar to turning off the monitor screen while the CPU is still turned on. As soon as you turn on the monitor you will have everything you had active. 
 Signing out also does not shut the machine down.  
