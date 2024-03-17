@@ -166,9 +166,9 @@ Now the Remote Desktop will open up.
 
 While not in use always turn off the VM to save money.  
 Once its stopped the External IP will be released/ given to other users and all the services will stop working. 
-$${\color{red}Turning Off using Windows Desktop Console 
+<font color="red">Turning Off using Windows Desktop Console 
 Make sure that the only way to turn off the Remote Desktop is  
-Start menu> Shut Down }$$
+Start menu> Shut Down </font>}
 Pressing X or closing the Remote Desktop Window does  not shut down the machine. 
 It is similar to turning off the monitor screen while the CPU is still turned on. As soon as you turn on the monitor you will have everything you had active. 
 Signing out also does not shut the machine down.  
