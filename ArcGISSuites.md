@@ -9,6 +9,9 @@ https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/overview
 
 It is Esri solution for building web app without having to code. 
 
+My practice
+https://experience.arcgis.com/builder/?id=071e0218c6c7461cbd6980813443a2c6&views=data
+
  
 
 It Consists of simple steps 
@@ -88,6 +91,7 @@ Example is https://geohub.brampton.ca/
 https://www.esri.com/en-us/arcgis/products/arcgis-hub/pricing 
 Included with ArcGIS Online subscription  (Basic) 
 Additional annual fee for Premium 
+
 
 
  
