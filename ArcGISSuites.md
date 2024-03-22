@@ -1,4 +1,5 @@
-### Start time 23.30 
+### Start time 23.00
+### End time 24:30
 ### End Time 
 
 # ArcGIS Experience Builder 
