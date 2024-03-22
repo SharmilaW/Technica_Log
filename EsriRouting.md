@@ -29,6 +29,8 @@ For this we can create our own network and perform analysis in the ArcGIS Pro or
 
 # ArcGIS Navigator
 https://www.esri.com/en-us/arcgis/products/arcgis-navigator/overview
-ArcGIS navigator is a professional mobile navigator app for Android and iOS that uses GIS software to route workforce. 
+ArcGIS navigator is a professional mobile navigator app for Android and iOS that uses GIS software to route workforce.
+
 ![GVM](./images/Esrilicensing.png)
+
 I tried using this but we donot have license.
