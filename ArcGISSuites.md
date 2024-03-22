@@ -1,6 +1,7 @@
+### Date 2024, March 22
 ### Start time 23.00
 ### End time 24:30
-### End Time 
+### Total Time 1:30
 
 # ArcGIS Experience Builder 
 
