@@ -1,10 +1,8 @@
 ### Date: 2024, March 23
 ### Time Started: 11:30
 ### Time Ended: 3:00
-Data Acquisition and Processing 
 
-For the Lindsay Transit 
-
+# Data Acquisition and Processing 
 From Lindsay Transit website created the csv file for the schedules of each route since the data was not available elsewhere 
 Added the data into the ArcGIS pro and joined to the feature class with routes and stops
 The name of the stops in the available feature layer was different form the bus stops from the Lindsay Transit website 
