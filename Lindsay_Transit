@@ -1,0 +1,24 @@
+### Date: 2024, March 23
+### Time Started: 11:30
+### Time Ended: 3:00
+Data Acquisition and Processing 
+
+For the Lindsay Transit 
+
+From Lindsay Transit website created the csv file for the schedules of each route since the data was not available elsewhere 
+Added the data into the ArcGIS pro and joined to the feature class with routes and stops
+The name of the stops in the available feature layer was different form the bus stops from the Lindsay Transit website 
+Repeated the join for another data set which is available in the hub but is not current 2020.
+Most of the bus stops name are matched except for the updated ones since 2020.  
+This data set also does not have Orange Route at all.
+For the Orange stops name were matched with the updated dataset 
+Exported orange route from this data set. 
+Added the csv file for the schedule of each route as well as the bus stop feature into AGOL
+While adding the CSV file the option of both csv and Table (hosted) were selected so that the table can be used in other Esri suites as well. 
+
+
+# Dashboard 
+For the general UI/UX idea first dashboard was created
+The maps with all the routes, and stops layer was created in AGOL
+In the create dashboard Lindsay Transit dashboard was created 
+Then the following map was added to the dashboard 
