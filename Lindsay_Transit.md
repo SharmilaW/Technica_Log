@@ -50,6 +50,10 @@ I am also trying to add the trigger so that only the time after the current time
 
 ![ExperienceBuilder](./images/GetImage38.png)
 
+## Interactive Widgets
+### Reference
+https://www.youtube.com/watch?v=f-jz4gOKY54
+
 # Esri Hub 
 Another common platform where transit maps are published are Hub 
 But we are not able to create hub.  
@@ -57,3 +61,6 @@ IF we were to create hub, It would contain all the route maps, Bus stop informat
 One good example for this is Brampton GeoHub
 https://www1.brampton.ca/EN/residents/transit 
 It consists all the information mentioned above and many more. 
+
+# ArcGIS Maps SDK for JavaScript
+https://developers.arcgis.com/javascript/latest/routing/routing-intro/
