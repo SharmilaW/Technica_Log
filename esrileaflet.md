@@ -18,6 +18,8 @@ Still there are some errors but this is the final product.
 
 https://sharmilaw.github.io/Routing/leafletLindsay
 
+![SDK](./images/Leaflet.png)
+
 Still I am not able to add the feature layers 
 (might try with the geojson file) 
 And the routing is also not working 
