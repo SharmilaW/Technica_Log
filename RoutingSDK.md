@@ -11,7 +11,7 @@ With only the code available I am not able to even load the map
 Using the layers from content of AGOL
 https://sharmilaw.github.io/Routing/RoutingSDK.html
 
-![SDK](./images/GetImage40.png)
+![SDK](./images/GetImage41.png)
 
 The layers was displayed but the code did not run when the route, graphics functions were defined and used
 I have tried several times but still not able to make the routing sucessfully. 
