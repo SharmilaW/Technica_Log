@@ -38,6 +38,8 @@ We have added survey link to receive feedback from the users.
 We have also added link to the pdf of Lindsay Transit 
 ![image](https://github.com/SharmilaW/Technical_Log/assets/146375906/463342ea-970a-43a8-8d29-3c9e136ba87f)
 
+Recording Screen for or final solutions for future when we will no longer have access to ArcGIS accounts after completing this course.
+
 
 
 
