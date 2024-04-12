@@ -30,6 +30,10 @@ Since the Template was easier to use started adding content for future considera
 Added content for the Solutions I have tried for our Problem
 
 ![image](https://github.com/SharmilaW/Technical_Log/assets/146375906/c0034c02-7f9f-43d2-bd3f-aab7070d918b)
+ Added contents while communicating with team members since we are all contributing to the same repository.
+ If changes are made  and pushed at same time then there will be merging errors so communicate before pushing code to git.
+ 
+![image](https://github.com/SharmilaW/Technical_Log/assets/146375906/ca4f362d-5de5-40d9-be55-648f6e96f5a7)
 
 
 Adding contents and validating for errors using W3C Validator
