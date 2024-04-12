@@ -36,3 +36,10 @@ Adding contents and validating for errors using W3C Validator
 
 ![image](https://github.com/SharmilaW/Technical_Log/assets/146375906/956a3729-cde8-4e67-b9e9-01f866b9d88e)
 
+# Added the screen record for our solutions in our webpage for future when we will no longer be able to use current ArcGIS account.
+This is our final Webpage which will be submitted for this project. 
+
+https://helenplesko.github.io/web2lindsaytransit/solution.html
+
+
+
