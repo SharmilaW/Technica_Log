@@ -23,7 +23,7 @@ Since the Template was easier to use started adding content for future considera
 
 ### Start Date 11 April 2024
 ### Start Time 17:00 
-### End Time 
+### End Time 24:00 
 
 # Cloned another repository and started adding content to this repository
 
