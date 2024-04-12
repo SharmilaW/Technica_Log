@@ -18,6 +18,9 @@ Added Description, Summary, Thumbnail, Credits, Tags to be so that this items ca
 ![image](https://github.com/SharmilaW/Technical_Log/assets/146375906/e70ce66d-f13a-49eb-9284-8bfeba649cf5)
 
 This was done for all of the feature layers, maps used in the dashboard which will be used in experinece builder for our final solutions
+### Date 11 April 2024
+### Start Time 23:00 
+### End Time 24:00 
 
 With all team members idea and solutions combined created the final solutions for Lindsay Transit.
 Splash Screen
@@ -39,9 +42,13 @@ We have also added link to the pdf of Lindsay Transit
 ![image](https://github.com/SharmilaW/Technical_Log/assets/146375906/463342ea-970a-43a8-8d29-3c9e136ba87f)
 
 Recording Screen for or final solutions for future when we will no longer have access to ArcGIS accounts after completing this course.
-
+Edited the screenrecording using Microsoft Clipchamp
+![image](https://github.com/SharmilaW/Technical_Log/assets/146375906/8a52b116-113d-468f-b0a0-5827ce3ff30a)
+And added the video in the final website
+Also created another HTML file for the video to add in this technical log as the mp4 was too large to be sued in the md format.
 https://sharmilaw.github.io/Technical_Log/FinalSolutionsVideo.html
 
+Also created a metadata or the final solutions.
 
 
 
