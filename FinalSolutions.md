@@ -40,7 +40,7 @@ We have also added link to the pdf of Lindsay Transit
 
 Recording Screen for or final solutions for future when we will no longer have access to ArcGIS accounts after completing this course.
 
-![Watch the video](./LindsayTransit.mp4)
+[![Watch the video](https://sharmilaw.github.io/Technical_Log/FinalSolutionsVideo.html)
 
 
 
